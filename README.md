@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/isaac-sim/.github/assets/157526879/bb98535e-d64a-4b84-8f7b-bd701330e6bd" width=350/>
+<img src="https://github.com/isaac-sim/.github/assets/157526879/bb98535e-d64a-4b84-8f7b-bd701330e6bd" width=1000/>
 </p>
 
 ## Overview

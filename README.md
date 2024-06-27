@@ -1,4 +1,8 @@
-<h3> Overview </h3>
+<p align="center">
+<img src="https://github.com/isaac-sim/.github/assets/157526879/bb98535e-d64a-4b84-8f7b-bd701330e6bd" width=350/>
+</p>
+
+## Overview
 <p align="justify">Welcome to NVIDIA Isaac Sim, a fully extensible, reference application enabling developers to design, simulate, test, and train AI-based robots and autonomous machines, and generate synthetic data.</p>
 
  <p align="justify">The core functionality of Isaac Sim is GPU-accelerated multi-physics simulation, based on NVIDIAPhysX, and RTX technology for physically-accurate simulation of sensors including cameras and LiDARs. </p>
@@ -21,7 +25,7 @@
 
 
 
-<h3>Getting Started:</h3>
+## Getting Started
 - Find out how to install Isaac Sim on your <a href= https://docs.omniverse.nvidia.com/isaacsim/latest/installation/install_workstation.html#isaac-sim-app-install-workstation/> workstation </a> or get the <a href=https://docs.omniverse.nvidia.com/isaacsim/latest/installation/install_container.html#isaac-sim-app-install-container/> container </a> and deploy in the cloud <p></p>
 - Check out the <a href=https://docs.omniverse.nvidia.com/isaacsim/latest/introductory_tutorials/tutorial_intro_interface.html/> getting started </a> and <a href=https://docs.omniverse.nvidia.com/isaacsim/latest/gui_tutorials/index.html/> build your first world tutorial </a> to start using Isaac Sim <p></p>
 - Familiarize yourself with <a href=https://docs.omniverse.nvidia.com/isaacsim/latest/development_tools_tutorials.html#isaac-sim-development-tools-tutorials/> Development Tools </a> <p></p>

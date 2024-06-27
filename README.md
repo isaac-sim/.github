@@ -1,4 +1,4 @@
-<h3>About Isaac Sim: </h3>
+<h3> Overview </h3>
 <p align="justify">Welcome to NVIDIA Isaac Sim, a fully extensible, reference application enabling developers to design, simulate, test, and train AI-based robots and autonomous machines, and generate synthetic data.</p>
 
  <p align="justify">The core functionality of Isaac Sim is GPU-accelerated multi-physics simulation, based on NVIDIAPhysX, and RTX technology for physically-accurate simulation of sensors including cameras and LiDARs. </p>

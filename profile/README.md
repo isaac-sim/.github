@@ -34,7 +34,7 @@
 - For how to train your robot refer to <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/isaac_lab_tutorials/index.html> Isaac Lab </a> <p></p>
 - To generate synthetic data for your perception model use <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/replicator_tutorials/index.html> Replicator </a> <p></p>
 - Reference the <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/overview/release_notes.html> release notes </a> for details on all updates made to Isaac Sim <p></p>
-- For any feedback or issues please reach out to us on the <a href=https://https://forums.developer.nvidia.com/c/omniverse/simulation/69>forum </a> <p></p>
+- For any feedback or issues please reach out to us on the <a href=https://forums.developer.nvidia.com/c/omniverse/simulation/69>forum </a> <p></p>
 
  
 

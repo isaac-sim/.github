@@ -26,7 +26,7 @@
 
 
 ## Getting Started
-- Find out how to install Isaac Sim on your <a href=docs.isaacsim.omniverse.nvidia.com/latest/installation/download.html/> workstation </a> or get the <a href=docs.isaacsim.omniverse.nvidia.com/latest/installation/install_container.html/> container </a> and deploy in the cloud <p></p>
+- Find out how to install Isaac Sim on your <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/installation/download.html/> workstation </a> or get the <a href=docs.isaacsim.omniverse.nvidia.com/latest/installation/install_container.html/> container </a> and deploy in the cloud <p></p>
 - Check out the <a href=docs.isaacsim.omniverse.nvidia.com/latest/introduction/quickstart_index.html/> getting started </a> and <a href=docs.isaacsim.omniverse.nvidia.com/latest/introduction/quickstart_isaacsim.html/> build your first world tutorial </a> to start using Isaac Sim <p></p>
 - Familiarize yourself with <a href=docs.isaacsim.omniverse.nvidia.com/latest/development_tools/index.html/> Development Tools </a> <p></p>
 - Learn how to <a href=docs.isaacsim.omniverse.nvidia.com/latest/robot_setup/importers_exporters.html/> import your robots and set up your scene </a> <p></p>

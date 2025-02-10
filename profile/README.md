@@ -26,14 +26,14 @@
 
 
 ## Getting Started
-- Find out how to install Isaac Sim on your <a href= https://docs.omniverse.nvidia.com/isaacsim/latest/installation/install_workstation.html#isaac-sim-app-install-workstation/> workstation </a> or get the <a href=https://docs.omniverse.nvidia.com/isaacsim/latest/installation/install_container.html#isaac-sim-app-install-container/> container </a> and deploy in the cloud <p></p>
-- Check out the <a href=https://docs.omniverse.nvidia.com/isaacsim/latest/introductory_tutorials/tutorial_intro_interface.html/> getting started </a> and <a href=https://docs.omniverse.nvidia.com/isaacsim/latest/gui_tutorials/index.html/> build your first world tutorial </a> to start using Isaac Sim <p></p>
-- Familiarize yourself with <a href=https://docs.omniverse.nvidia.com/isaacsim/latest/development_tools_tutorials.html#isaac-sim-development-tools-tutorials/> Development Tools </a> <p></p>
-- Learn how to <a href=https://docs.omniverse.nvidia.com/isaacsim/latest/environment_setup_tutorials.html#isaac-sim-environment-setup-tutorials/> import your robots and set up your scene </a> <p></p>
-- Connect your ROS/ROS2 projects via <a href=https://docs.omniverse.nvidia.com/isaacsim/latest/ros_ros2_tutorials.html#isaac-sim-ros-ros2-tutorials/> ROS/ROS2 bridges </a> and interfaces <p></p>
-- For how to train your robot refer to <a href=https://docs.omniverse.nvidia.com/isaacsim/latest/isaac_lab_tutorials/index.html#isaac-lab-tutorials-page/> Isaac Lab </a> <p></p>
-- To generate synthetic data for your perception model use <a href=https://docs.omniverse.nvidia.com/isaacsim/latest/replicator_tutorials/index.html#isaac-replicator-tutorials-page/> Replicator </a> <p></p>
-- Reference the <a href= https://docs.omniverse.nvidia.com/isaacsim/latest/release_notes.html#release-notes/> release notes </a> for details on all updates made to Isaac Sim <p></p>
+- Find out how to install Isaac Sim on your <a href= https://docs.isaacsim.omniverse.nvidia.com/latest/installation/download.html/> workstation </a> or get the <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/installation/install_container.html/> container </a> and deploy in the cloud <p></p>
+- Check out the <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/introduction/quickstart_index.html/> getting started </a> and <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/introduction/quickstart_isaacsim.html/> build your first world tutorial </a> to start using Isaac Sim <p></p>
+- Familiarize yourself with <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/development_tools/index.html/> Development Tools </a> <p></p>
+- Learn how to <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/robot_setup/importers_exporters.html/> import your robots and set up your scene </a> <p></p>
+- Connect your ROS/ROS2 projects via <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/ros2_tutorials/ros2_landing_page.html/> ROS/ROS2 bridges </a> and interfaces <p></p>
+- For how to train your robot refer to <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/isaac_lab_tutorials/index.html/> Isaac Lab </a> <p></p>
+- To generate synthetic data for your perception model use <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/replicator_tutorials/index.html/> Replicator </a> <p></p>
+- Reference the <a href= https://docs.isaacsim.omniverse.nvidia.com/latest/overview/release_notes.html/> release notes </a> for details on all updates made to Isaac Sim <p></p>
 - For any feedback or issues please reach out to us on the <a href=https://forums.developer.nvidia.com/c/omniverse/simulation/69/>forum </a> <p></p>
 
  

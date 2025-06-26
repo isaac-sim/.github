@@ -1,13 +1,12 @@
 
 
-</p>
-
 ## Overview
-<p align="justify">Welcome to NVIDIA Isaac Sim, a fully extensible, reference application enabling developers to design, simulate, test, and train AI-based robots and autonomous machines, and generate synthetic data.</p>
+Welcome to NVIDIA Isaac Sim, an [open-source](https://github.com/isaac-sim/IsaacSim), fully extensible reference application enabling developers to train, simulate, and validateAI-based robots in physically-based virtual environments.
 
- <p align="justify">The core functionality of Isaac Sim is GPU-accelerated multi-physics simulation, based on NVIDIAPhysX, and RTX technology for physically-accurate simulation of sensors including cameras and LiDARs. </p>
+ The core functionality of Isaac Sim is GPU-accelerated multi-physics simulation, based on NVIDIA PhysX, and RTX technology for physically accurate simulation of sensors, including cameras and LiDARs.
 
- <p align="justify">Isaac Sim provides a suite of technologies for robotics use cases, including ROS 2 bridges for testing robot software stacks, Isaac Lab for training RL agents and Replicator for generating synthetic data.</p>
+ Isaac Sim provides a suite of technologies for robotics use cases, including ROS 2 bridges for testing robot software stacks, [Isaac Lab](https://docs.isaacsim.omniverse.nvidia.com/latest/isaac_lab_tutorials/index.html) for training RL agents, and Replicator for generating synthetic data.
+ </p>
 
 <table>
   <tr>
@@ -26,15 +25,14 @@
 
 
 ## Getting Started
-- Find out how to install Isaac Sim on your <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/installation/install_workstation.html> workstation </a> or get the <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/installation/install_container.html> container </a> and deploy in the cloud <p></p>
-- Check out the <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/introduction/quickstart_index.html> getting started to start using Isaac Sim <p></p>
-- Familiarize yourself with <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/development_tools/index.html> Development Tools </a> <p></p>
-- Learn how to <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/robot_setup/importers_exporters.html> import your robots and set up your scene </a> <p></p>
-- Connect your ROS/ROS2 projects via <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/ros2_tutorials/ros2_landing_page.html> ROS/ROS2 bridges </a> and interfaces <p></p>
-- For how to train your robot refer to <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/isaac_lab_tutorials/index.html> Isaac Lab </a> <p></p>
-- To generate synthetic data for your perception model use <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/replicator_tutorials/index.html> Replicator </a> <p></p>
-- Reference the <a href=https://docs.isaacsim.omniverse.nvidia.com/latest/overview/release_notes.html> release notes </a> for details on all updates made to Isaac Sim <p></p>
-- For any feedback or issues please reach out to us on the <a href=https://forums.developer.nvidia.com/c/omniverse/simulation/69>forum </a> <p></p>
+- Discover various ways to install and use Isaac Sim [HERE](https://docs.isaacsim.omniverse.nvidia.com/latest/installation/index.html#detailed-install-options). <p></p>
+- Refer to the [getting started guide](https://docs.isaacsim.omniverse.nvidia.com/latest/introduction/quickstart_index.html#quick-tutorials) to begin using Isaac Sim. <p></p>
+- Familiarize yourself with [Development Tools](https://docs.isaacsim.omniverse.nvidia.com/latest/development_tools/index.html). <p></p>
+- Learn how to [import your robots and set up your scene](https://docs.isaacsim.omniverse.nvidia.com/latest/importer_exporter/importers_exporters.html). <p></p>
+- Connect your ROS2 projects via [ROS2 bridges](https://docs.isaacsim.omniverse.nvidia.com/latest/ros2_tutorials/ros2_landing_page.html) and interfaces. <p></p>
+- For training your robot, refer to [Isaac Lab](https://docs.isaacsim.omniverse.nvidia.com/latest/isaac_lab_tutorials/index.html). <p></p>
+- Use [Synthetic Data Generation](https://docs.isaacsim.omniverse.nvidia.com/latest/synthetic_data_generation/index.html) to create synthetic data for your perception model.
+
 
  
 

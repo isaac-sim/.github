@@ -1,7 +1,7 @@
 
 
 ## Overview
-Welcome to NVIDIA Isaac Sim, an [open-source](https://github.com/isaac-sim/IsaacSim), fully extensible reference application enabling developers to train, simulate, and validateAI-based robots in physically-based virtual environments.
+Welcome to NVIDIA Isaac Sim, an [open-source](https://github.com/isaac-sim/IsaacSim), fully extensible reference application enabling developers to train, simulate, and validate AI-based robots in physically-based virtual environments.
 
  The core functionality of Isaac Sim is GPU-accelerated multi-physics simulation, based on NVIDIA PhysX, and RTX technology for physically accurate simulation of sensors, including cameras and LiDARs.
 
